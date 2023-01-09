@@ -1,2 +1,2 @@
 # Mobius
-The XR-Linux distro based on Debian
+The XR-Linux distro for VR headsets!
